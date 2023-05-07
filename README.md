@@ -1,2 +1,1 @@
-# legal-texts
-legal texts for my own use
+# legal texts for my own use
